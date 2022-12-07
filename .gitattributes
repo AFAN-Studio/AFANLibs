@@ -1,1 +1,4 @@
 *.md linguist-language = MarkDown
+*.cpp linguist-language = C++
+*.h linguist-language = C++
+*.asm linguist-language = Assembly
